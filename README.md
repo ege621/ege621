@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ege621
 - 👀 I’m interested in sensors, embedded coding, computer vision and machine learning.
 - 🌱 I’m currently learning about cypress processors.
-- 📫 You can reach m through keskin.ege95@gmail.com
+- 📫 You can reach me through keskin.ege95@gmail.com
